@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
-module.exports = require('./CachedImage');
-module.exports.ImageCacheProvider = require('./ImageCacheProvider');
+module.exports.CachedImage = require("./CachedImage");
+module.exports.ImageCacheProvider = require("./ImageCacheProvider");
